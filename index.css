@@ -1,0 +1,26 @@
+body{
+    background-color: cornsilk;
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+    font-size: 500%;
+    margin: 80px;
+}
+
+#special::first-letter{
+    font-size: 400%;
+    
+}
+span{
+    text-transform: uppercase;
+}
+p{
+    text-align: center;
+    padding: 5px;
+}
+div{
+
+    text-align: center;
+}
